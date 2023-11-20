@@ -1,9 +1,7 @@
 import { Col, Form, Input, Row } from "antd";
-import { useEffect, useRef } from "react";
 
 const Login = () => {
     const [loginForm] = Form.useForm();
-    const canvasRef = useRef(null);
 
 
     return (

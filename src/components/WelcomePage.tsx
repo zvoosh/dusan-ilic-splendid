@@ -2,29 +2,9 @@ import { Layout } from "antd";
 import { Link } from "react-router-dom";
 
 const WelcomePage = () => {
-
-    const fn = () => {
-        const canvas = document.querySelector("canvas");
-        const ctx = canvas!.getContext("2d");
-    }
-
-    fn()
-
     return (<>
 
         <div className="flex flex-column">
-            {/* <div className={'backgorund'}>
-                <div id="backBttn" ><AiOutlineArrowLeft style={{ marginRight: '30px', borderRadius: '50%', padding: '.25rem', border: '1px solid black' }} /> BACK</div>
-
-                <div className="welcomeTitle">
-                    <div>
-                        DUSAN ILIC
-                    </div>
-                    <div className="welcomeSubTitle">
-                        Software engineer
-                    </div>
-                </div>
-            </div> */}
             <div className='nav-font'>
                 <Layout style={{ height: "100%", width: '100%' }}>
                     <Layout>
