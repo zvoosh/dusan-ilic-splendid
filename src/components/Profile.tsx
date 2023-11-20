@@ -42,7 +42,6 @@ const Profile = () => {
                         </div>
                         <div className="details mt-1">LINKS</div>
                         <a target="_blank" href="https://www.linkedin.com/in/dusan-ilic-0997b4166/">LinkedIn</a>
-                        <a target="_blank" className="mt-1" href="https://github.com/zvoosh">Github</a>
                         <div className="details mt-1">SKILLS</div>
                         <div className="mt-05">Node.js - intermediate</div>
                         <div className="mt-05">HTML & CSS - intermediate</div>
@@ -57,7 +56,7 @@ const Profile = () => {
                     </div>
                     <div className="profileSection">
                         <div className="profileSectionTitle mt-1">PROFILE</div>
-                        <div className="profileSectionText">I'm an experienced web front-end developer with 10 months of solid industry experience. I'm dedicated, positive, and I build trust and collaboration within teams by sticking to important work values. I'm always improving my skills and consistently deliver great results.
+                        <div className="profileSectionText">I'm an junior web front-end developer with 11 months of solid industry experience. I'm dedicated, positive, and I build trust and collaboration within teams by sticking to important work values. I'm always improving my skills and consistently deliver great results.
                             I started my career as a junior developer in a supportive team, which laid a strong foundation for my professional growth. In the past ten months, I've gained a lot of knowledge from various sources like team interactions and online research.
                             I tackle each task with flexibility and a problem-solving attitude, always looking for the best solutions and fostering a good team dynamic. I'm known for my commitment to confidentiality, strong sense of responsibility, passion for my work, analytical skills, and unwavering motivation.
                         </div>
@@ -71,14 +70,14 @@ const Profile = () => {
                             </div>
                         </div>
                         <div className="dates">
-                            Jul 2022 - May 2023
+                            July 2022 - June 2023
                         </div>
                         <div className="profileSectionText">I have had the privilege of working within a forward-thinking manufacturing facility
                             that embraces cutting-edge technology across both equipment and software tools.
                             My primary focus has been in the realm of software development, specifcally
                             utilizing the React.js library in conjunction with TypeScript.
                             During my tenure, I actively contributed to two pivotal projects, ŠKODA and
-                            Ministry of Finance, where I honed my expertise in independently creating and
+                            Ministry of Finance, where I honed my expiriance in independently creating and
                             maintaining projects. This experience exposed me to the latest advancements
                             in technology, encompassing key frameworks and libraries such as Redux, React
                             Context, React Navigation, React/Query, Axios, AntD, React Router, and various other
@@ -86,7 +85,7 @@ const Profile = () => {
                             Furthermore, I possess an intermediate level of proficiency in testing, leveraging the
                             Jest.js library to ensure the reliability and quality of the software solutions I develop.
                             My commitment to staying with of the latest technological trends underscores
-                            my dedication to delivering top-tier results in software development</div>
+                            my dedication to delivering top-tier results in software development.</div>
                         <div className="profileSectionTitle mt-1">EDUCATION</div>
                         <div className="uniTitle">
                             <div>
@@ -97,7 +96,7 @@ const Profile = () => {
                             </div>
                         </div>
                         <div className="dates">
-                            Jul 2022 - May 2023
+                            Jul 2022 - May 2023 ~ Finishing
                         </div>
                         <div className="profileSectionText">I finished all my exams with an average score of 8,31|10 and currently working on my
                             graduation thesis.</div>

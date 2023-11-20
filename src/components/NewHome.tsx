@@ -35,9 +35,6 @@ const NewHome = () => {
                         </div>
                     </div>
                 </div>
-                <div className="socials">
-                    <div>Github: <a href="https://github.com/zvoosh" style={{ color: 'white' }}> https://github.com/zvoosh</a></div>
-                </div>
             </div>
         </div>
     )
