@@ -8,8 +8,3 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
   </BrowserRouter>
 )
-
-//   < Routes >
-//   <Route path="/dummy" element={<DummyPage />} />
-//   <Route path="/" element={<NewHome />} />
-// </Routes >
