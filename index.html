@@ -11,15 +11,7 @@
 
 <body>
   <div id="root"></div>
-  <script type="module">
-    import RefreshRuntime from 'https://zvoosh.github.io/@react-refresh'
-    RefreshRuntime.injectIntoGlobalHook(window)
-    window.$RefreshReg$ = () => { }
-    window.$RefreshSig$ = () => (type) => type
-    window.__vite_plugin_react_preamble_installed__ = true
-  </script>
-  <script type="module" src="https://zvoosh.github.io/@vite/client"></script>
-  <script type="module" src="https://zvoosh.github.io/main.tsx"></script>
+  <script src="/src/main.tsx" type="module"></script>
 </body>
 
 </html>
