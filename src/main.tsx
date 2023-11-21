@@ -5,6 +5,9 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <BrowserRouter >
-    <App />
+    {/* <App /> */}
+    <div>
+      dusan dadadad
+    </div>
   </BrowserRouter>
 )
