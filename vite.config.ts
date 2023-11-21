@@ -6,18 +6,18 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",
-  resolve: {
-    alias: {
-      '@components': './src/components', // Corrected alias path
-    },
-  },
-  build: {
-    // generate .vite/manifest.json in outDir
-    manifest: true,
-    rollupOptions: {
-      // overwrite default .html entry
-      input: 'src/main.tsx',
-    },
-  },
+  base: "/zvoosh.github.io/",
+  // resolve: {
+  //   alias: {
+  //     '@components': './src/components', // Corrected alias path
+  //   },
+  // },
+  // build: {
+  //   // generate .vite/manifest.json in outDir
+  //   manifest: true,
+  //   rollupOptions: {
+  //     // overwrite default .html entry
+  //     input: 'src/main.tsx',
+  //   },
+  // },
 });
