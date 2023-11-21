@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/zvoosh.github.io/",
+  base: "/",
   resolve: {
     alias: {
       '@components': './src/components', // Corrected alias path
